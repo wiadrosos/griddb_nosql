@@ -1,0 +1,39 @@
+talents=2331211
+spec=havoc
+
+azerite_essences=5:2/300573/6:2/300575/300576/35:2/300577/312927/12:4/312928
+# azerite_essences_available=4:2/5:2/6:2/7:2/12:4/22:3/27:1/32:1/33:1/34:2/35:2/36:2
+
+head=,id=155888,bonus_id=5442/1617/4786/6505/4775,context=35,azerite_powers=353/159/30/44/13
+neck=,id=158075,bonus_id=4932/4933/6316/1642,context=11,azerite_level=86
+shoulder=,id=168984,bonus_id=5445/1517/4786/6509/4775,context=35,azerite_powers=159/352/22/564/13
+back=,id=169223,bonus_id=6280/1472,context=11
+chest=,id=155860,bonus_id=5442/1617/4786/6504/4775,context=35,azerite_powers=220/126/462/202/13
+wrist=,id=158305,bonus_id=6528/6516/6513/1632/4786,context=16
+hands=,id=172597,bonus_id=6363/6388/6578/6579/6558/6515/1557/4786,context=56
+waist=,id=159725,bonus_id=6528/6516/6513/1632/4786,context=16
+legs=,id=159313,bonus_id=5010/6516/6515/1627/4786,context=16
+feet=,id=159320,bonus_id=5010/4802/6578/6579/6557/6515/1637/4786,context=35
+finger1=,id=162548,bonus_id=5009/6516/6513/1627/4786,context=16
+finger2=,id=162542,bonus_id=6530/6516/6513/1632/4786,context=16
+trinket1=,id=159612,bonus_id=5010/6513/1627/4786,context=16
+trinket2=,id=159614,bonus_id=4780/4802/6513/1607/4786,context=16
+main_hand=,id=159635,enchant_id=5965,bonus_id=5009/42/6578/6579/6560/6515/1627/4786,context=16
+off_hand=,id=158714,enchant_id=5962,bonus_id=5007/6578/6515/1622/4786,context=16
+
+### Gear from Bags
+#
+# Ritual Flayer's Vest (280)
+# chest=,id=155314,bonus_id=1452/4785,context=25,azerite_powers=
+#
+# Bloodfeaster Belt (455)
+# waist=,id=159325,bonus_id=5010/6516/6515/1627/4786,context=16
+#
+# Ritual Flayer's Trousers (286)
+# legs=,id=158958,bonus_id=4790,drop_level=120,context=11
+#
+# Ritual Flayer's Striders (286)
+# feet=,id=158982,bonus_id=4790,drop_level=120,context=11
+#
+# Pocket-Sized Computation Device (404)
+# trinket1=,id=167555,gem_id=167556/168752,bonus_id=1476,context=11
